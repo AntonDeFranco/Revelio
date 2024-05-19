@@ -1,2 +1,2 @@
 # Revelio
-Code for the project "Is obtaining a Master's degree really worth it?"
+Code for the project "Is obtaining a Master's degree really worth it?" All code used for this project is located in  _Accounting_Revelio_Code.ipynb_ However, due to the way GitHub is structured, the interactive graphs cannot be displayed. Instead, to see the interactive graphs, please visit this link: https://nbviewer.org/github/AntonDeFranco/Revelio/blob/main/Accounting_Revelio_Code.ipynb
